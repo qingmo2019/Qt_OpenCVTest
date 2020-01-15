@@ -1,0 +1,1 @@
+Ubuntu 18.04 + Qt5.9.9 + OpenCV3.4
